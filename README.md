@@ -81,6 +81,7 @@
 
 - #### Client-side GTM Tags:
   - [HTTP POST/GET request sender](https://github.com/tommasomoretti/cs-http-tag): send HTTP POST and GET requests from client-side GTM to an endpoint
+  - [Custom Facebook pixel tag](https://github.com/Adsmurai-Google-Tag-Manager-Templates/adsmurai-facebook-pixel-and-conversions-api): fire Facebook events through regular pixel and Conversions API.
 
 - #### Server-side GTM Tags:
   -  [HTTP POST/GET client](https://github.com/tommasomoretti/ss-http-client-tag): collect HTTP POST and GET requests
@@ -88,6 +89,8 @@
   -  [Google BigQuery data writer](https://github.com/tommasomoretti/ss-bq-tag): write data in realtime into Goole BigQuery
   -  [Google Cloud Firestore data writer](https://github.com/tommasomoretti/ss-fs-tag): write data in realtime into Google Cloud Firestore
   -  Google Cloud Storage data writer: write data in realtime into Google Cloud Storage
+  -  [Custom Facebook client Tag](https://github.com/Adsmurai-Google-Tag-Manager-Templates/adsmurai-facebook-conversions-api-client): handle requests for Facebook Conversions API
+  -  [Custom Facebook CAPI tag](https://github.com/Adsmurai-Google-Tag-Manager-Templates/adsmurai-facebook-conversions-api-tag): send requests using Facebook's Conversions API
 
 ### Cloud Functions
   - EL from GCS to BQ: extract and load data (CSV, JSON, Avro, Parquet, ORC) scheduled/in realtime from Google Cloud Storage (with versioning) to BigQuery tables
