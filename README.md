@@ -9,7 +9,8 @@
 
 ## Architecture
 
-![GCP Warehouse](https://user-images.githubusercontent.com/29273232/162455675-182f614c-20f1-4388-99d5-26a87f92a7c8.png)
+![GCP Warehouse](https://user-images.githubusercontent.com/29273232/169641582-d9947fe3-eb08-4d84-86f6-0fda91943dbe.svg)
+
 
 ---
 
